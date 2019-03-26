@@ -40,7 +40,7 @@ Repetimos el proceso desde ubuserver2:
 
 ![Conexión ssh a ubuserver1](./img/sshcheck21.png) 
 
-##Acceder mediante la herramienta curl
+## Acceder mediante la herramienta curl
 Desde la máquina 1:
 
 ![Curl a ubuserver2](./img/curl1.png) 
