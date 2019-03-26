@@ -1,13 +1,13 @@
-#Practica 1. Preparación de las herramientas
+# Practica 1. Preparación de las herramientas
 Esta práctica consiste básicamente en la instalación de dos máquinas virtuales para que actúen como servidor web.
 
 Para ello, he usado VirtualBox como medio de virtualización y Ubuntu Server 16.04 como sistema operativo. En dichas máquinas, he instalado OpenSSH Server y la pila LAMP que nos habilitará el servidor web y la base de datos de forma cómoda.
 
-##Cuestiones a resolver
+## Cuestiones a resolver
 - Acceder por ssh de una máquina a otra.
 - Acceder mediante la herramienta curl desde una máquina a la otra.
 
-##Configuración de red
+## Configuración de red
 Tras la instalación de todas las herramientas necesarias, decidí modificar la configuración de red de NAT a red interna.
 
 De esta forma, las máquinas quedarán comunicadas entre sí y no estarán en contacto con el exterior, algo que quedará solucionado posteriormente en la práctica 3 con la configuración de un balanceador de carga que hará de frontera.
@@ -31,7 +31,7 @@ Adicionalmente y por comodidad, he modificado el archivo */etc/hosts* para poder
 ![/etc/hosts para la máquina 1](./img/hosts2.png)
 ![/etc/hosts para la máquina 2](./img/hosts.png)
 
-##Acceder por ssh de una máquina a otra
+## Acceder por ssh de una máquina a otra
 Primero vamos a probar la conectividad de ubuserver1 a ubuserver2, para ello hacemos usamos el comando ssh e indicamos la contraseña:
 
 ![Conexión ssh a ubuserver2](./img/sshcheck12.png) 
