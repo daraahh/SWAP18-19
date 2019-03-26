@@ -15,9 +15,11 @@ De esta forma, las máquinas quedarán comunicadas entre sí y no estarán en co
 Dicho esto, una vez seleccionado un adaptador de red interna en Virtualbox para ambas máquinas, modifico el archivo */etc/network/interfaces* para dar un dirección IP estática y configurar la nueva interfaz.
 
  Para la máquina 1 (ubuserver1) :
+ 
  ![Interfaces para la máquina 1](./img/interfaces1.png) 
  
  Para la máquina 2 (ubuserver2) :
+ 
  ![Interfaces para la máquina 2](./img/interfaces2.png) 
  
  Por tanto la red queda así:
