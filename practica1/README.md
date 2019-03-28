@@ -1,4 +1,4 @@
-#Practica 1. Preparación de las herramientas
+#Práctica 1. Preparación de las herramientas
 Esta práctica consiste básicamente en la instalación de dos máquinas virtuales para que actúen como servidor web.
 
 Para ello, he usado VirtualBox como medio de virtualización y Ubuntu Server 16.04 como sistema operativo. En dichas máquinas, he instalado OpenSSH Server y la pila LAMP que nos habilitará el servidor web y la base de datos de forma cómoda.
