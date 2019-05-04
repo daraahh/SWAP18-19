@@ -121,4 +121,17 @@ En el examen te proporcionan las IPs de 5 máquinas las cuales tienes que obtene
 
 El uso de Metasploit está bastante limitado y usar herramientas automatizadas como Nessus o sqlmap, etc. no está permitido.
 
+---------
+
+##### Bibliografía
+
+https://en.wikipedia.org/wiki/Penetration_test
+https://en.wikipedia.org/wiki/Information_technology_security_audit
+https://es.wikipedia.org/wiki/Examen_de_penetraci%C3%B3n
+https://danielmiessler.com/blog/the-difference-between-a-penetration-test-and-a-red-team-engagement/
+https://blog.rapid7.com/2016/06/23/penetration-testing-vs-red-teaming-the-age-old-debate-of-pirates-vs-ninja-continues/
+https://www.redteamsecure.com/penetration-testing-vs-red-teaming-whats-difference/
+http://www.pentest-standard.org/index.php/PTES_Technical_Guidelines
+https://www.edusum.com/blog/top-6-penetration-testing-certifications-security-professionals
+http://giseproi.org/pentesting/metodologias-pentesting/
 
