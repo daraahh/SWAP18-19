@@ -120,3 +120,5 @@ No es necesario renovar la certificación.
 En el examen te proporcionan las IPs de 5 máquinas las cuales tienes que obtener acceso en un máximo de 24 horas y otras 24 horas para escribir y enviar el informe con tus resultados. Dependiendo de la máquina y del tipo de acceso que consigas (con privilegios root/system o no) obtendrás más o menos puntos. Necesitas al menos 70 puntos para aprobar de un total de 100.
 
 El uso de Metasploit está bastante limitado y usar herramientas automatizadas como Nessus o sqlmap, etc. no está permitido.
+
+
